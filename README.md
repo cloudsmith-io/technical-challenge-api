@@ -8,9 +8,12 @@ For instructions on what to do (plus using this repository), please refer to the
 
 ## Prerequisites
 
-This is a challenge best completed on Linux, but running within WSL/WSL2 on Windows works too.
+This is a challenge best completed on Linux, but running on MacOS and within WSL2 on Windows works too.
 
-The only thing you *need* to install is Docker.
+The only thing you *need* to install is:
+
+- [Docker](https://www.docker.com)
+- [docker-compose](https://docs.docker.com/compose/install/)
 
 The following utilities might help for testing purposes:
 
